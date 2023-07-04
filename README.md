@@ -12,8 +12,8 @@ This is a single-page application built using the **NEXT.js** framework that fet
 
 ## Installation
 
-1. Clone this repository: `git clone https://github.com/your-username/blog-application.git`
-2. Change into the project directory: `cd blog-application`
+1. Clone this repository: `git clone https://github.com/fhurau/nextjs-app.git`
+2. Change into the project directory: `cd nextjs-app`
 3. Install the dependencies: `npm install` or `yarn install`
 
 ## Usage
